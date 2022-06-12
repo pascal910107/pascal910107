@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 [![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pascal910107&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/pascal910107)  
 [![Pascal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascal910107&layout=compact)](https://github.com/pascal910107)
 
-<img src="https://raw.githubusercontent.com/HeiTang/HeiTang/snake/github-snake.svg">
 
