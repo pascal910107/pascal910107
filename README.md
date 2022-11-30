@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 [![Pascal's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pascal910107&layout=compact&count_private=true)](https://github.com/pascal910107)
 
 
+![Metrics](/metrics.terminal.svg)
