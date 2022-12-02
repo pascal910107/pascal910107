@@ -12,7 +12,6 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
       - name: Terminal
         uses: lowlighter/metrics@latest
         with:
