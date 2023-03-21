@@ -1,16 +1,21 @@
 {
   "links": [
     {
-      "title": "Click me",
-      "description": "Hello world",
-      "url": "https://youtu.be/dQw4w9WgXcQ",
-      "icon": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2023%2F01%2Fhttps___hk.hypebeast.com_files_2021_08_never-gonna-give-you-up-passes-one-billion-views-01.jpg?fit=max&cbr=1&q=90&w=750&h=500"
+      "title": "GitHub",
+      "description": "My GitHub profile",
+      "url": "https://github.com/davidho0403",
+      "icon": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
     },
     {
-      "title": "Github",
-      "description": "My Github",
-      "url": "https://www.github.com/pascal910107",
-      "icon": "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"
+      "title": "YouTube",
+      "description": "My YouTube channel",
+      "url": "https://www.youtube.com/@1weiho",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3670/3670147.png"
+    },
+    {
+      "title": "GH Link",
+      "description": "My GH Link page",
+      "url": "https://gh-link.vercel.app/davidho0403"
     }
   ]
 }
