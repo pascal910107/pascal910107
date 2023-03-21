@@ -3,12 +3,14 @@
     {
       "title": "Click me",
       "description": "Hello world",
-      "url": "https://youtu.be/dQw4w9WgXcQ"
+      "url": "https://youtu.be/dQw4w9WgXcQ",
+      "icon": "https://image-cdn.hypb.st/https%3A%2F%2Fhk.hypebeast.com%2Ffiles%2F2023%2F01%2Fhttps___hk.hypebeast.com_files_2021_08_never-gonna-give-you-up-passes-one-billion-views-01.jpg?fit=max&cbr=1&q=90&w=750&h=500"
     },
     {
       "title": "Github",
       "description": "My Github",
-      "url": "https://www.github.com/pascal910107"
+      "url": "https://www.github.com/pascal910107",
+      "icon": "https://cdn4.iconfinder.com/data/icons/iconsimple-logotypes/512/github-512.png"
     }
   ]
 }
