@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 [![Pascal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pascal910107&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/pascal910107)  
 ![Most used Langs](/metrics.plugin.languages.details.svg)
-![issues and pull requests](/metrics.plugin.followup.indepth.svg)
+<!-- ![issues and pull requests](/metrics.plugin.followup.indepth.svg) -->
