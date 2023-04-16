@@ -7,6 +7,12 @@
       "icon": "https://cdn-icons-png.flaticon.com/512/25/25231.png"
     },
     {
+      "title": "Resume",
+      "description": "My Resume",
+      "url": "https://drive.google.com/drive/u/1/my-drive",
+      "icon": "https://cdn-icons-png.flaticon.com/512/2815/2815429.png"
+    },
+    {
       "title": "YouTube",
       "description": "My YouTube channel",
       "url": "https://www.youtube.com/@1weiho",
@@ -15,7 +21,7 @@
     {
       "title": "GH Link",
       "description": "My GH Link page",
-      "url": "https://gh-link.vercel.app/davidho0403"
+      "url": "https://gh-link.vercel.app/pascal910107"
     }
   ]
 }
